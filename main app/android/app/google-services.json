@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "792186982816",
+    "firebase_url": "https://trial1-3f97b.firebaseio.com",
+    "project_id": "trial1-3f97b",
+    "storage_bucket": "trial1-3f97b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792186982816:android:27213becd7a2dec14694c5",
+        "android_client_info": {
+          "package_name": "com.sekhmet.dementiacare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792186982816-6929me8sfnpqn42ntif0sh71uj0q8ihc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk-BbrAluxN44zrifp9eN0bQnL5P0GkTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792186982816-6929me8sfnpqn42ntif0sh71uj0q8ihc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
