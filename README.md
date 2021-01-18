@@ -40,6 +40,6 @@ Our team understood the difficulties that a dementia patient faces with technolo
 
 We learned to look at every aspect of the user’s needs to come up with the most ideal design. The Design Spirit Workshop at the Tech Together, Boston - 2020, in particular, helped us a lot. We learned a new technology - Augmented reality in a short span of time which was a scary but exciting experience.We even learned how to deploy ML model as an api and integrate it with flutter.We wish to take this project further, learning and growing along the way.
 
-## *What's next for Cogniflex*
+## *What's next for Soulfit*
 
 We're in the prototyping stage with about 75% of the software, and hardware complete. We wish to complete our prototype of the wrist band and try testing it at working homes to check the efficiency of the solution. Based on the feedback received we wish to optimize the project to its best potential and get it patented so as to make a mark in the health and wellness industry.
